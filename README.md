@@ -1,2 +1,3 @@
 # hello-world
 That's a short description O_o
+Git seems to be easy to use, Weird...
